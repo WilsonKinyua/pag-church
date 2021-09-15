@@ -3434,8 +3434,7 @@ textarea {
   line-height: 44px;
   border: 1px solid #fff;
 }
-.single-team-member .img-box .overlay ul li:last-child a {
-}
+
 
 /*style-2*/
 
@@ -6217,4 +6216,14 @@ textarea {
 
 .mt-5 {
   margin-top: 20px;
+}
+
+
+.pastor img {
+  height: 400px;
+  margin-bottom: 20px;
+}
+
+.pastor .accordion-box {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
