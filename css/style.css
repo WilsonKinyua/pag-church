@@ -6239,3 +6239,9 @@ textarea {
 .footer-logo img {
   height: 80px;
 }
+
+.general {
+  height: 400px;
+  border-radius: 8px;
+  border: 1px solid #444444;
+}
