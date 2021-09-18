@@ -6245,3 +6245,7 @@ textarea {
   border-radius: 8px;
   border: 1px solid #444444;
 }
+
+.text-danger {
+  color: red !important;
+}
